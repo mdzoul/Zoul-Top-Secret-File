@@ -1,7 +1,7 @@
 import random
 from let_num_sym import *
 
-print("\n\33[32m---Welcome to the PyPassword Generator!---\33[0m")
+print("\n\33[32m---Welcome to Zoul's Password Generator!---\33[0m")
 
 # nr_letters= int(input("How many letters would you like in your password?\n")) 
 # random_letters = random.choices(letters, k=nr_letters)
