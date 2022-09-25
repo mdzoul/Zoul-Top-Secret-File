@@ -20,7 +20,7 @@ while logged_in == False:
 \33[1mCongratulations!\33[0m
 
 You have successfully gained access to Zoul's \33[1;31mTop Secret File\33[0m! Amazing!
-If you meet Zoul and tell him the correct username and password, he will buy you a \33[1;32mMcDonald's Ice-cream\33[0m!🍦
+Send Zoul a screenshot of this message and tell him the correct username and password. He will buy you a \33[1;32mMcDonald's Ice-cream\33[0m!🍦
 
 \33[3mThanks so much for supporting~!\33[0m🥰""")
 
