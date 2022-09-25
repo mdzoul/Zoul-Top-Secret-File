@@ -1,4 +1,4 @@
-print("""\33[1mGreetings and welcome to the Zoul's vault.\33[0m
+print("""\33[1mGreetings and welcome to Zoul's vault.\33[0m
 
 Please enter the \33[4musername\33[0m and \33[4mpassword\33[0m to gain access to Zoul's \33[1;31mTop Secret File\33[0m.\n""")
 
