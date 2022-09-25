@@ -6,7 +6,7 @@ logged_in = False
 new_password = None
 
 while logged_in == False:
-    username = input("Username: ").capitalize()
+    username = input("Username: ").lower().capitalize()
     password = input("Password: ")
 
     if username != "Zoul":
