@@ -30,7 +30,7 @@ If you meet Zoul and tell him the correct username and password, he will buy you
 \33[32m---Logged in---\33[0m
 \33[1mWelcome!\33[0m
 
-You have managed to log in to Zoul's \33[1;31mSecret File\33[0m!
+You have managed to log in to Zoul's \33[1;34mSecret File\33[0m!
 Unfortunately, since you have forgotten Zoul's birthday, you will not receive any prizes.😢
 
 Try again when you have figured out the real password!🤭
